@@ -1,0 +1,12 @@
+{
+  "name": "Казино Азино888",
+  "short_name": "Азино888",
+  "description": "Азино888 — официальный сайт казино, вход и зеркало",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b10",
+  "theme_color": "#00c800",
+  "icons": [
+    {"src": "favicon.ico", "sizes": "96x96", "type": "image/png"}
+  ]
+}

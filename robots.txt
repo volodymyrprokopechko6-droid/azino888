@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azino-888.org/sitemap.xml
