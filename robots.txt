@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://volodymyrprokopechko6-droid.github.io/azino888/sitemap.xml
